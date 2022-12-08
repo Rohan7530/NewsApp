@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Elsie Boskamp, USA TODAY",
+      "title": "Shop today's 60+ best 4th of July sales at Amazon, Walmart, Lowe's and more - USA TODAY",
+      "description": "Celebrate Independence Day with today's best 4th of July sales. Shop huge markdowns at Amazon, Target, Walmart, Lowe's and so much more.",
+      "url": "https://www.usatoday.com/story/money/reviewed/2022/07/04/4th-july-sales-deals-2022/7789208001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/29/USAT/57e6bedd-3416-4202-9281-4faf423c8d75-Hero-FourthOfJuly_MainHero_2022_2.PNG?auto=webp&crop=2985,1679,x7,y0&format=pjpg&width=1200",
+      "publishedAt": "2022-07-04T12:41:58Z",
+      "content": "— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.\r\nToday's 4th of July sales are some of the best you'll see all summer.… [+18460 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Natasha Singer, Veronica Majerol, Jason Karaian",
+      "title": "Fourth of July Live Updates: Hot Dog Eating Contest and Travel News - The New York Times",
+      "description": "More than 1,400 U.S. flights were canceled over the weekend and another 14,000 were delayed, as airlines struggled to accommodate a surge of summer travelers.",
+      "url": "https://www.nytimes.com/live/2022/07/04/us/july-4",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/04/us/04independenceday-blog-promo-600am/04independenceday-blog-header-600am-articleLarge.jpg",
+      "publishedAt": "2022-07-04T12:18:04Z",
+      "content": "The night skies of some American cities will remain dark this Independence Day, with supply chain and staffing shortages, drought and concerns over wildfires leading to the cancellation of several fi… [+6533 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Arjun Kharpal",
+      "title": "Another crypto lender Vauld pauses withdrawals as market crash takes its toll - CNBC",
+      "description": "Vauld is the latest victim of the cryptocurrency price plunge this year that has exposed flaws in a number digital coin projects and business models.",
+      "url": "https://www.cnbc.com/2022/07/04/crypto-lender-vauld-halts-withdrawals-as-market-crash-takes-its-toll-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107080916-1656319994349-gettyimages-1030734176-s3s_04sep2018_cw0016.jpeg?v=1656321365&w=1920&h=1080",
+      "publishedAt": "2022-07-04T11:39:39Z",
+      "content": "Crypto lender Vauld on Monday paused all withdrawals, trading and deposits on its platform and is exploring potential restructuring options, the company said.\r\nVauld CEO Darshan Bathija said in a blo… [+985 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Nicola Slawson",
+      "title": "First Thing: Fox and friends face billion-dollar US lawsuits - The Guardian US",
+      "description": "Rightwing networks Fox News, OAN and Newsmax could be found liable over election fraud claims. Plus, the amazing fates of Hollywood’s greatest dresses",
+      "url": "https://amp.theguardian.com/us-news/2022/jul/04/first-thing-fox-and-friends-face-billion-dollar-us-lawsuits",
+      "urlToImage": "https://i.guim.co.uk/img/media/d132665e2d6316061cbfe386dc61065cff7c32a7/0_111_4322_2594/master/4322.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c67cb9ea1419f89e9e5c57909cf9f47d",
+      "publishedAt": "2022-07-04T10:05:00Z",
+      "content": "Good morning.\r\nIn the months following the 2020 US presidential election, rightwing TV news in America was a wild west, an apparently lawless free-for-all where conspiracy theories about voting machi… [+8651 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Cassidy Hutchinson testimony prompts reassessment of Trump legal culpability - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvaG91c2UvMzU0NDMzNi1jYXNzaWR5LWh1dGNoaW5zb24tdGVzdGltb255LXByb21wdHMtcmVhc3Nlc3NtZW50LW9mLXRydW1wLWxlZ2FsLWN1bHBhYmlsaXR5L9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-07-04T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "ABC News",
+      "title": "2 women killed in shark attacks in Egypt's Red Sea, officials say - ABC News",
+      "description": "Two women were killed in shark attacks in Egypt's Red Sea over the weekend, prompting officials to close off a stretch of the coastline.",
+      "url": "https://abcnews.go.com/International/women-killed-shark-attacks-egypts-red-sea-officials/story?id=86174051",
+      "urlToImage": "https://s.abcnews.com/images/International/red-sea-resort-sahl-hasheesh-file-rt-220_hpMain_20220704-044014_16x9_992.jpg",
+      "publishedAt": "2022-07-04T09:47:19Z",
+      "content": "CAIRO and LONDON -- Two women were killed in shark attacks in Egypt's Red Sea over the weekend, prompting officials to close off a stretch of the coastline.\r\nThe Egyptian Ministry of Environment said… [+1862 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Bryan Pietsch, Victoria Bisset, Annabelle Timsit",
+      "title": "Latest Russia-Ukraine war news: Live updates - The Washington Post",
+      "description": "The loss of Lysychansk means Russia has seized essentially all of Luhansk province and can move its sights toward neighboring Donetsk.",
+      "url": "https://www.washingtonpost.com/world/2022/07/04/russia-ukraine-war-news-putin-live-updates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SGWDX6XZNQI6ZAO3VQD2HFFINM.jpg&w=1440",
+      "publishedAt": "2022-07-04T09:30:00Z",
+      "content": "As the war in Ukraine continues to disrupt agricultural production and shipments, the countrys exports of grain, vegetable oils and other staples in 2022 are unlikely to be more than 35% of the 2021 … [+2347 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Josh Duggar's Military-Style Life Behind Bars with Chores, Strict Rules - TMZ",
+      "description": "Josh Duggar's life in federal prison, following his child porn case.",
+      "url": "https://www.tmz.com/2022/07/04/josh-duggar-life-federal-prison-child-porn-case/",
+      "urlToImage": "https://imagez.tmz.com/image/47/16by9/2022/06/28/47be5a6031544656a9634f381a4b9539_xl.jpg",
+      "publishedAt": "2022-07-04T08:00:00Z",
+      "content": "Josh Duggar is set to spend the next 12 years of his life behind bars, and while it was assumed it wouldn't be easy ... we have details now on just how strict his prison day-to-day will actually be.\r… [+1209 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "D.L. Hughley Says Donald Trump Belongs in Jail Over Insurrection - TMZ",
+      "description": "D.L. Hughley says Donald Trump committed treason and should be in jail over the insurrection.",
+      "url": "https://www.tmz.com/2022/07/04/dl-hughley-donald-trump-jail-january-6-insurrection-treason-cassidy-hutchinson/",
+      "urlToImage": "https://imagez.tmz.com/image/2a/16by9/2022/06/29/2ada25b7be9f453991506d7f7a26e233_xl.jpg",
+      "publishedAt": "2022-07-04T07:50:00Z",
+      "content": "D.L. Hughley says Donald Trump belongs behind bars for his role in the insurrection ... strongly believing any lesser outcome signals the end of justice as we know it.\r\nWe got the comedian/social act… [+957 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Damon Brooks Jr., USA TODAY",
+      "title": "Nathan's Hot Dog Eating Contest: Start time, TV, streaming information for Fourth of July tradition - USA TODAY",
+      "description": "The Nathan’s Famous Hot Dog Eating Contest will return to the corner of Surf and Stillwell Avenues at Nathan’s Famous restaurant in Coney Island",
+      "url": "https://www.usatoday.com/story/sports/2022/07/04/nathans-famous-hot-dog-eating-contest-2022-start-time-streaming-tv/7801233001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/04/USAT/3ce4d826-6b9d-4656-9ad1-c90c6df882e5-AP_APTOPIX_Hot_Dog_Eating_Contest.jpg?auto=webp&crop=3893,2190,x1,y85&format=pjpg&width=1200",
+      "publishedAt": "2022-07-04T07:30:34Z",
+      "content": "An American tradition is returning to its roots.\r\nThe Nathan’s Famous Hot Dog Eating Contest will be held on the corner of Surf and Stillwell Avenues at Nathan’s Famous restaurant in Coney Island aft… [+2394 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": null,
+      "title": "3 feet of rain sets up 4th round of flood misery for Sydney - The Associated Press",
+      "description": "SYDNEY (AP) — More than 30,000 residents of Sydney and its surrounds were told to evacuate or prepare to abandon their homes Monday as Australia’s largest city faces its fourth, and possibly worst, round of flooding in less than a year and a half.",
+      "url": "https://apnews.com/article/floods-sydney-australia-evacuations-new-south-wales-1ad3cba6a4bfc7a21655e5867d217249",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1e3bb432e82f41588059b0f8244b4a55/3000.jpeg",
+      "publishedAt": "2022-07-04T06:52:54Z",
+      "content": "SYDNEY (AP) More than 30,000 residents of Sydney and its surrounds were told to evacuate or prepare to abandon their homes Monday as Australias largest city faces its fourth, and possibly worst, roun… [+3700 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kathleen Magramo, Lauren Lau",
+      "title": "Hong Kong said 'miracle' needed to find more survivors from ship sunk in Typhoon Chaba. China just found one - CNN",
+      "description": "A rescue team from mainland China saved a crew member of a ship that broke in half and sank during Typhoon Chaba in the early hours of Monday morning -- just hours after their counterparts in Hong Kong said a \"miracle\" would be needed to find any more survivo…",
+      "url": "https://www.cnn.com/2022/07/04/asia/hong-kong-china-typhoon-chaba-rescue-survivors-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220703214628-01-hong-kong-typhoon-chaba-ship-rescue-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-07-04T06:35:00Z",
+      "content": "A rescue team from mainland China saved a crew member of a ship that broke in half and sank during Typhoon Chaba in the early hours of Monday morning just hours after their counterparts in Hong Kong … [+2371 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Copenhagen shooting: Gunman kills three in Field's shopping mall - BBC",
+      "description": "Shoppers flee in panic after gunfire inside one of the country's biggest shopping centres.",
+      "url": "https://www.bbc.com/news/world-europe-62030919",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5071/production/_125739502_0b80ad69a436c4cfd09852725e24947b98683ca5.jpg",
+      "publishedAt": "2022-07-04T06:25:07Z",
+      "content": "By Alys DaviesBBC News\r\nMedia caption, Watch: Panic as people flee gunfire in Copenhagen mall\r\nA gunman has killed three people and injured another four at a shopping mall in Denmark's capital Copenh… [+4461 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Astronomer Says New Webb Space Telescope Images “Almost Brought Him to Tears” - SciTechDaily",
+      "description": "The scientific and astronomical communities are eagerly waiting for Tuesday, July 12th, to come around. That is the day when NASA promises to release the first images taken by the James Webb Space Telescope (JWST)! According to a previous statement by NASA, t…",
+      "url": "https://scitechdaily.com/astronomer-says-new-webb-space-telescope-images-almost-brought-him-to-tears/",
+      "urlToImage": "https://scitechdaily.com/images/Evolution-of-Infrared-Space-Telescopes.jpg",
+      "publishedAt": "2022-07-04T04:24:09Z",
+      "content": "SPACE &amp; TIMEI would like to introduce to you the physical definition of the straight line as following:The straight line is the line, whose direction parallel to the axis of the gyroscope.In an i… [+4399 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Mail" },
+      "author": "Christopher Carbone",
+      "title": "10th anniversary of the Higgs Boson discovery: What have we learned from the 'God Particle'? - Daily Mail",
+      "description": "Many Americans will mark the country's birthday today, but science nerds will celebrate the tenth anniversary of the discovery of the Higgs Boson - also known as the 'God Particle' - on July 4th.",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-10973341/10th-anniversary-Higgs-Boson-discovery-learned-God-Particle.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/07/03/15/59756843-0-image-a-2_1656858122043.jpg",
+      "publishedAt": "2022-07-04T04:00:46Z",
+      "content": "Many Americans will mark the country's birthday today, but physicists and science nerds will also celebrate the tenth anniversary of the discovery of the Higgs Boson - also known as the 'God Particle… [+7097 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Video shows 'ambush' shooting of Haltom City officers in neighborhood - WFAA",
+      "description": "GRAPHIC WARNING: Video shows the moment a gunman began opening fire at officers. Prior to officers arriving, the suspect had killed two other people, police ...",
+      "url": "https://www.youtube.com/watch?v=ureCEy4lm9E",
+      "urlToImage": "https://i.ytimg.com/vi/ureCEy4lm9E/hqdefault.jpg",
+      "publishedAt": "2022-07-04T03:13:23Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": "Mike Florio",
+      "title": "Birmingham Stallions win USFL championship, 33-30 - NBC Sports",
+      "description": "With 10 minutes to play, the Philadelphia Stars led the USFL title game by three points. Fueled by a touchdown drive led by backup quarterback Alex McGough and a pick six from linebacker Scooby Wright, the Birmingham Stallions turned the tables and emerged wi…",
+      "url": "https://profootballtalk.nbcsports.com/2022/07/03/birmingham-stallions-win-usfl-championship-33-30/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/07/GettyImages-1406627524-e1656903899966.jpg",
+      "publishedAt": "2022-07-04T03:07:00Z",
+      "content": "With 10 minutes to play, the Philadelphia Stars led the USFL title game by three points. Fueled by a touchdown drive led by backup quarterback Alex McGough and a pick six from linebacker Scooby Wrigh… [+1268 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Bezos slams Biden's call for gasoline stations to cut prices - Reuters.com",
+      "description": "Amazon.com Inc <a href=\"https://www.reuters.com/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> founder Jeff Bezos renewed his spat with the White House over the weekend, as the world's third-richest person criticized President Joe Biden for calling on compani…",
+      "url": "https://www.reuters.com/business/energy/bezos-slams-bidens-call-gasoline-stations-cut-prices-2022-07-03/",
+      "urlToImage": "https://www.reuters.com/resizer/n8fFBzC5wGqYPwrQ0uw7Q2A52Qk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WTIZYVI7A5OZJDBCDSHD3R6R74.jpg",
+      "publishedAt": "2022-07-04T01:47:00Z",
+      "content": "July 3 (Reuters) - Amazon.com Inc (AMZN.O) founder Jeff Bezos renewed his spat with the White House over the weekend, as the world's third-richest person criticized President Joe Biden for calling on… [+1474 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Samantha Beech, Dakin Andone",
+      "title": "Jayland Walker suffered at least 60 wounds in fatal police shooting, Akron police chief says, as authorities release bodycam footage - CNN",
+      "description": "Jayland Walker suffered at least 60 gunshot wounds when Akron, Ohio, police officers fatally shot him during a pursuit last week, Akron Police Chief Stephen Mylett said Sunday, citing a medical examiner's report.",
+      "url": "https://www.cnn.com/2022/07/03/us/jayland-walker-police-shooting-video/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220703143351-02-akron-police-shooting.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-07-04T01:45:00Z",
+      "content": "Jayland Walker suffered at least 60 gunshot wounds when Akron, Ohio, police officers fatally shot him during a pursuit last week, Akron Police Chief Stephen Mylett said Sunday, citing a medical exami… [+6067 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "Patrick McDonald",
+      "title": "2022 John Deere Classic leaderboard, grades: J.T. Poston goes wire-to-wire to earn second victory on PGA Tour - CBS Sports",
+      "description": "After a runner-up finish last week, J.T. Poston owned the John Deere Classic, winning by three strokes",
+      "url": "https://www.cbssports.com/golf/news/2022-john-deere-classic-leaderboard-grades-j-t-poston-goes-wire-to-wire-to-earn-second-victory-on-pga-tour/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/03/cfc6ef4f-bc5f-4303-9728-e9eccdd29d1d/thumbnail/1200x675/0b8e3eac9c5bbd9b6100c774a27f360b/poston-usatsi.jpg",
+      "publishedAt": "2022-07-04T01:18:00Z",
+      "content": "From start to finish, J.T. Poston was the clear class of the field at the 2022 John Deere Classic as he notched his second victory on the PGA Tour on Sunday. Becoming the third player in tournament h… [+4862 chars]"
+    }
+  ]
+}
